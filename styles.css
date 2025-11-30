@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.square1 {
+  height: 50px;
+  width: 50px;
+  background-color: lightgreen;
+}
+
+.square2 {
+  height: 50px;
+  width: 50px;
+  background-color: lightblue;
+}
+.square3 {
+  height: 50px;
+  width: 50px;
+  background-color: lightcoral;
+}
